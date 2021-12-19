@@ -1,0 +1,15 @@
+name: PlayerKits
+version: ${project.version}
+main: com.mattmx.playerkits.Playerkits
+api-version: 1.16
+prefix: PKITS
+authors: [ MattMX ]
+description: Personal kits for players!
+website: https://www.mattmx.com/
+commands:
+  pk:
+    description: Default command for PlayerKits
+    permission: pk.main
+  kit:
+    description: Kit command for PlayerKits
+    permission: pk.kit
