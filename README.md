@@ -23,7 +23,7 @@ Simply download the jar and drop it in your plugins folder. Feel free to look th
 For devlopers, you can clone this repository using **JitPack.io**!
 > ##### Maven
 > First add the *Jitpack Repository*.
-> ```maven
+> ```mvn
 > <repositories>
 >		<repository>
 >		    <id>jitpack.io</id>
@@ -32,7 +32,7 @@ For devlopers, you can clone this repository using **JitPack.io**!
 >	</repositories>
 >```
 > Then add this project as a dependency
-> ```maven
+> ```mvn
 > <dependency>
 >	    <groupId>com.github.Matt-MX</groupId>
 >	    <artifactId>PersonalKits</artifactId>
